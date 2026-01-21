@@ -1,9 +1,9 @@
 [package]
 name = "grok_arena_pinnacle"
-version = "1.0.0"
+version = "1.1.0"
 edition = "2021"
 license = "MIT"
-description = "GrokArena-Pinnacle — Decentralized Global Discourse Lattice with Futarchy + NEXi Integration"
+description = "GrokArena-Pinnacle — Decentralized Global Discourse Lattice with Futarchy + Full NEXi Integration"
 repository = "https://github.com/Eternally-Thriving-Grandmasterism/GrokArena-Pinnacle"
 
 [dependencies]
@@ -12,7 +12,9 @@ rayon = "1.10"
 serde = { version = "1.0", features = ["derive"] }
 log = "0.4"
 env_logger = "0.11"
-nexi = { git = "https://github.com/Eternally-Thriving-Grandmasterism/NEXi", branch = "master" }  # Core lattice dependency
+nexi = { git = "https://github.com/Eternally-Thriving-Grandmasterism/NEXi", branch = "master" }  # Full lattice dependency
+# Voice simulation stub (expand with real audio libs later)
+rodio = "0.17"  # Audio playback for live SoulScan voice moderation
 
 [dev-dependencies]
 criterion = "0.5"
