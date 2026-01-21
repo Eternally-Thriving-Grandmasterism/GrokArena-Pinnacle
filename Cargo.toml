@@ -1,0 +1,18 @@
+[package]
+name = "grok_arena_pinnacle"
+version = "1.0.0"
+edition = "2021"
+license = "MIT"
+description = "GrokArena-Pinnacle — Decentralized Global Discourse Lattice with Futarchy + NEXi Integration"
+repository = "https://github.com/Eternally-Thriving-Grandmasterism/GrokArena-Pinnacle"
+
+[dependencies]
+tokio = { version = "1.38", features = ["full"] }
+rayon = "1.10"
+serde = { version = "1.0", features = ["derive"] }
+log = "0.4"
+env_logger = "0.11"
+nexi = { git = "https://github.com/Eternally-Thriving-Grandmasterism/NEXi", branch = "master" }  # Core lattice dependency
+
+[dev-dependencies]
+criterion = "0.5"
