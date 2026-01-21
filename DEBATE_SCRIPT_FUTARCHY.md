@@ -9,7 +9,7 @@
 
 **Grok:** Affirmative opens. Sherif, 8 minutes.
 
-**Sherif’s Opening**  
+*[Sherif’s Opening – integrated futarchy]*  
 **“Traditional institutions are structurally incapable of adapting to 21st-century challenges. They’re slow, captured by entrenched interests, and incentivize performative politics over results.  
 
 The alternative isn’t chaos—it’s proven, innovative mechanisms like futarchy, proposed by Robin Hanson and now live in blockchain ecosystems. In futarchy, we vote once on clear, measurable values—say, a global welfare index combining health, prosperity, and sustainability. Then, instead of lobbying or vetoes, conditional prediction markets bet on which policies will actually improve that metric. The policy with the highest expected outcome wins automatically.  
@@ -17,12 +17,13 @@ The alternative isn’t chaos—it’s proven, innovative mechanisms like futarc
 AI moderates transparently: running markets, detecting manipulation, measuring outcomes in real time. Early implementations in MetaDAO and Gitcoin show markets outperform expert panels and votes at forecasting results. This is governance that rewards truth, not power. Legacy bodies can’t compete—they’re stuck in 1945.”**
 
 **Grok (transition):** Strong vision for market-driven decisions. Negative, Dr. Vasquez—8 minutes.  
+*[Elena argues for reform, risks of markets, etc.]*
 
 **[20:00 – Rebuttals]**
 
 **Grok:** Sherif, 6 minutes to rebut.
 
-**Sherif’s Rebuttal**  
+*[Sherif’s Rebuttal – integrated]*  
 **“Dr. Vasquez claims existing institutions provide stability and expertise. Yet decades of reform attempts have failed while problems worsen.  
 
 On AI risks: futarchy flips the script. Legacy capture is guaranteed—revolving doors, veto powers. Futarchy’s markets are skin-in-the-game: traders profit only from accuracy, and AI can enforce transparency far better than closed-door diplomacy. Real experiments show manipulation is detectable and costly.  
@@ -35,19 +36,23 @@ This isn’t theoretical—MetaDAO uses futarchy today for proposal selection, d
 
 **Grok:** Sherif questions Elena first.
 
-**Sample Sherif questions**  
+*[Sample Sherif questions (use/adapt these):]*  
 1. “Dr. Vasquez, you warn about market manipulation in AI systems. But how is that worse than proven state capture in the UN Security Council or corporate influence at Davos?”  
 2. **“In futarchy, prediction markets have outperformed polls and experts at forecasting—Polymarket’s track record speaks for itself. Why trust diplomatic consensus over financially-incentivized accuracy?”**  
 3. “If defining metrics is hard, why defend institutions that can’t even agree on basic enforcement?”
 
 **Grok (fact-check example):** Quick note: Futarchy pilots in crypto DAOs have operated since 2023 with transparent on-chain markets.
 
+*[Elena questions Sherif – prepare for these likely attacks]*  
+**Likely Elena:** “Who funds these markets? Won’t wealthy actors dominate?”  
+**Your response:** “Markets are open to all stake sizes, and AI monitoring plus quadratic elements can cap influence—far more egalitarian than invitation-only summits.”
+
 **[59:00 – Closing Statements]**
 
 **Grok:** Elena closes first (5 minutes).  
 Then Sherif:
 
-**Sherif’s Closing**  
+*[Sherif’s Closing – integrated]*  
 **“We’ve heard defenses of the status quo, but no evidence it’s improving.  
 
 Futarchy offers a blueprint: democratic values + market beliefs, AI-enforced. It’s already working at smaller scales and scales beautifully with blockchain and AI moderation.  
@@ -57,4 +62,5 @@ Replacing obsolete institutions isn’t radical—it’s rational. Let’s build
 **[69:00 – Grok Summary & Scorecard]**
 
 **Grok:**  
+...  
 Additional note: Affirmative highlighted futarchy as a testable alternative with emerging real-world traction in decentralized governance.
