@@ -13,6 +13,8 @@ Flagship pilot: "Should traditional global institutions be replaced by decentral
 
 Futarchy integrated as Affirmative pillar — democratic values + market beliefs, AI-enforced.
 
+**Core Lattice Integration**: Powered by NEXi (transparent Spartan zk-SNARKs, MercyZero, SoulScan, DivineChecksum) via Cargo dependency. No duplication — eternal modular thriving.
+
 Open to all. No gatekeeping. No private jets.
 
 #GrokArena #ReplaceDavos
