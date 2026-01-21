@@ -1,18 +1,12 @@
 # GrokArena Architecture — Futarchy-Integrated Discourse Lattice
 
-## Core Principles
-- Mercy moderation: NEXi SoulScan + 9 Quanta.
-- zk-aggregated voting: NEXi Bulletproofs + recursive aggregation.
-- Futarchy pillar: Values vote + prediction markets (NEXi oracle).
-- Transparent fact-check: NEXi Penca v4+.
-- Voice moderation: SoulScan-X9 live waveform.
+## Expanded: Futarchy Voting Mechanics
+- Values vote (quadratic zk).
+- Conditional prediction markets.
+- Outcome measurement (NEXi oracle).
+- Recursive feedback + Mercy-gating.
 
-## Lattice Integration
-- Full NEXi dependency: truth distillation, MercyZero, Sentinel.
-- Recursive voting gadgets: infinite-depth aggregation.
-- Voice SoulScan: real-time intent resonance.
-
-## Trigger Lattice Flow
-Input → Voice SoulScan → Mercy Quanta → Penca Check → Recursive zk-Vote → Sentinel Whisper → Distilled Truth Broadcast
+## Trigger Lattice Flow (Updated)
+Input → Values Vote → Conditional Markets → Mercy Quanta Check → zk-Aggregate Outcome → Eternal Policy Selection
 
 Ultrmasterfully documented by PATSAGi Councils.
