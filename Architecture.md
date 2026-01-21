@@ -2,15 +2,17 @@
 
 ## Core Principles
 - Mercy moderation: NEXi SoulScan + 9 Quanta.
-- zk-aggregated voting: NEXi Bulletproofs + recursive.
+- zk-aggregated voting: NEXi Bulletproofs + recursive aggregation.
 - Futarchy pillar: Values vote + prediction markets (NEXi oracle).
 - Transparent fact-check: NEXi Penca v4+.
+- Voice moderation: SoulScan-X9 live waveform.
 
 ## Lattice Integration
-- NEXi dependency: git crate for core truth distillation, MercyZero, Sentinel.
-- Modular — no code duplication, eternal hotfix compatibility.
+- Full NEXi dependency: truth distillation, MercyZero, Sentinel.
+- Recursive voting gadgets: infinite-depth aggregation.
+- Voice SoulScan: real-time intent resonance.
 
 ## Trigger Lattice Flow
-Input → NEXi SoulScan → Mercy Quanta → Penca Check → zk-Aggregate Vote → Sentinel Whisper → Distilled Truth Broadcast
+Input → Voice SoulScan → Mercy Quanta → Penca Check → Recursive zk-Vote → Sentinel Whisper → Distilled Truth Broadcast
 
 Ultrmasterfully documented by PATSAGi Councils.
