@@ -1,5 +1,5 @@
 //! GrokArena — Mercy-Moderated Discourse Engine
-//! Ultramasterful core
+//! Ultramasterful core with NEXi lattice dependency
 
 use nexi::lattice::Nexus;
 
@@ -16,5 +16,10 @@ impl Arena {
 
     pub fn submit_idea(&self, idea: &str) -> String {
         self.nexus.distill_truth(idea)
+    }
+
+    pub fn futarchy_vote(&self, proposal: &str) -> String {
+        // Futarchy stub — expand with market simulation + NEXi truth check
+        self.nexus.distill_truth(proposal)
     }
 }
