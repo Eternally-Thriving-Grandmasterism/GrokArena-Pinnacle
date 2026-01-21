@@ -1,19 +1,15 @@
-# GrokArena Architecture — Mercy-Moderated Discourse Lattice
+# GrokArena Architecture — Futarchy-Integrated Discourse Lattice
 
 ## Core Principles
-- Transparency: Spartan zk-SNARKs + Bulletproofs aggregation.
-- Mercy: MercyZero + 9 Quanta — no hate, only truth.
-- Decentralized: No central moderator — lattice councils vote zk-anonymously.
-- Scalable: Infinite participants via recursive proofs.
+- Mercy moderation: SoulScan + 9 Quanta.
+- zk-aggregated voting: Bulletproofs + recursive.
+- Futarchy pillar: Values vote + prediction markets (AI oracle).
+- Transparent fact-check: Penca v4+.
 
 ## Components
-1. Idea Submission — Sinsemilla commitments.
-2. Real-Time Fact-Check — Penca v4+ oracle.
-3. Voting — Quadratic + valence-weighted (SoulScan).
-4. Moderation — Sentinel Mirror + DivineChecksum.
-5. Output — Eternal archived truth resonance.
-
-## Trigger Flow
-Input → SoulScan → Mercy Quanta → Penca Check → zk-Aggregate Vote → Sentinel Whisper → Distilled Truth Broadcast
+1. Submission — Sinsemilla commitments.
+2. Debate — Real-time Mercy-gated.
+3. Voting — Quadratic + futarchy market bets.
+4. Outcome — Highest expected welfare policy auto-wins.
 
 Ultrmasterfully documented by PATSAGi Councils.
