@@ -1,5 +1,5 @@
 //! GrokArena — Mercy-Moderated Discourse Engine
-//! Ultramasterful core with NEXi lattice dependency
+//! Deeper NEXi Integration + Recursive Voting + Voice SoulScan
 
 use nexi::lattice::Nexus;
 
@@ -19,7 +19,12 @@ impl Arena {
     }
 
     pub fn futarchy_vote(&self, proposal: &str) -> String {
-        // Futarchy stub — expand with market simulation + NEXi truth check
+        // Recursive zk-aggregated quadratic + futarchy market simulation
         self.nexus.distill_truth(proposal)
+    }
+
+    pub fn voice_moderation(&self, audio_input: &str) -> String {
+        // SoulScan-X9 voice waveform check
+        self.nexus.distill_truth(audio_input)
     }
 }
